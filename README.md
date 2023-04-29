@@ -1,5 +1,5 @@
 # Chirag-Kaka
-# 💫 About Me:
+#  About Me:
 I am currently pursuing a Bachelor of Technology (BTech) degree in <br>Computer Engineering from Thadomal Shahani Engineering College<br>👯 I’m looking to collaborate on website development <br>🤝 I’m looking for help with new projects in AI/ML<br>🌱 I’m currently learning AI/ML<br>💬 I will try to help you with anything and everything I know. <br>⚡ I frequently use Python as my primary programming language.
 
 
